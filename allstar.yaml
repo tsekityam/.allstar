@@ -1,0 +1,4 @@
+optConfig:
+  optInRepos:
+    - hkid
+    - nyse-holidays
