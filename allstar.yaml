@@ -1,4 +1,5 @@
 optConfig:
   optInRepos:
+    - alphanum-compare
     - hkid
     - nyse-holidays
